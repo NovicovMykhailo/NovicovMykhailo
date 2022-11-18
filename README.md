@@ -7,3 +7,5 @@
 -Validator https://validator.w3.org/nu/#textarea
 
 -Emmet cheat Sheet https://docs.emmet.io/cheat-sheet/
+
+- ресурс для перевірки вкладеності тегів https://caninclude.glitch.me/
