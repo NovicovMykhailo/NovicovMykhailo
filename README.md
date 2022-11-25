@@ -10,6 +10,7 @@
 
 - ресурс для перевірки вкладеності тегів https://caninclude.glitch.me/
 
+- Генератор HTML-дерева BEM https://yoksel.github.io/html-tree/
 
 [
 .visually-hidden {
