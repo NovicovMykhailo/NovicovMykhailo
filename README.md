@@ -12,6 +12,8 @@
 
 - Генератор HTML-дерева BEM https://yoksel.github.io/html-tree/
 
+-  BEM - https://ru.bem.info/methodology/quick-start/#%D0%BC%D0%B8%D0%BA%D1%81
+
 [
 .visually-hidden {
 	position: absolute;
