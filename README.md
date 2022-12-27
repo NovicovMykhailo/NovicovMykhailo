@@ -14,6 +14,16 @@
 
 -  BEM - https://ru.bem.info/methodology/quick-start/#%D0%BC%D0%B8%D0%BA%D1%81
 
+
+ - max height on mobile viewport trick makes a job:
+        height: calc(100vh - calc(100vh - 100%))
+
+
+
+
+
+
+
 [
 .visually-hidden {
 	position: absolute;
