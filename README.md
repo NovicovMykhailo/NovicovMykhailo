@@ -20,7 +20,7 @@
 
 
 
-
+parcel build ./src/index.html --dist-dir dist
 
 
 
