@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mykhailo Novicov</h1>
 <h3 align="center">a Junior Fullstack developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
+
 
 <h3 align="center">Frontend stack:</h3> 
 <div align="center">
@@ -21,6 +21,12 @@
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React, js, css, html**
 - 📫 How to reach me **mikenovicov@gmail.com**
+- <p align="center"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
