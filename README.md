@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React, js, css, html**
 - 📫 How to reach me **mikenovicov@gmail.com**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg
 [contributors-url]: https://example.com
