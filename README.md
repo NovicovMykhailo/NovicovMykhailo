@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZCALrsIkmwpcHMw3nW1NgC2rVU6FXQrsz_UkVoILsg_LOh1DNmErSpTGhutgR0cv4g&usqp=CAU" alt="Benchmark" width="100%" height="50px" style="background-color:#2e3136">
+
+
+
 <h1 align="center">Hi 👋, I'm Mykhailo Novicov</h1>
 <h3 align="center">a Junior Fullstack developer</h3>
-
+</p>
 
 
 <h3 align="center">Frontend stack:</h3> 
