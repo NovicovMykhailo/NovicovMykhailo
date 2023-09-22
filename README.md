@@ -4,7 +4,7 @@
 <h3 align="center">a Junior Fullstack developer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=novicovmykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="novicovmykhailo" /> </p>
 
 
-<table  border="4px">
+<table >
   <tr> 
     <td>
    <h3 align="left">Frontend stack:</h3> 
