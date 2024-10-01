@@ -121,8 +121,11 @@
 </table>
 <br>
 <div align="left" width="100px">
-  <h3 align="left">My Works:</h3>
-<div background="red">
+
+<table background="fff">
+  <tr> <h3 align="left">My Works:</h3></tr>
+  
+<td width="300px">
   
 >**<a href="https://novicovmykhailo.github.io/drink-master-front" target="_blank" rel="noreferrer"> 
  Cocktails site
@@ -139,9 +142,10 @@
 >**<a href="https://novicovmykhailo.github.io/icecream_team_project" target="_blank" rel="noreferrer">
 Ice Cream
 </a>**
+</td>
 
-
-
+<td width="300px">
+  
 >**<a href="https://github.com/NovicovMykhailo/unlock-the-wonders-of-ukraine" target="_blank" rel="noreferrer">
 Unlock Wonders of Ukraine
  </a>**
@@ -157,10 +161,21 @@ Mountain Tours
 >**<a href="https://novicovmykhailo.github.io/Adventure-Landing-demo" target="_blank" rel="noreferrer">
 Adventure Tours
 </a>**
-</div>
+</td>
+  
+<td width="300px">
+  
+>**<a href="https://novicovmykhailo.github.io/adverts-car-rental" target="_blank" rel="noreferrer">
+Car Rental
+</a>**
+<br>
+<br>
+<br>
+<br>
 
+</td>
 
-</div>
+</table>
 
 
 <br>
