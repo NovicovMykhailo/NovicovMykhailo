@@ -119,6 +119,48 @@
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novicovmykhailo&show_icons=true&locale=en&layout=compact" alt="novicovmykhailo" /></td>
   </tr>
 </table>
+<br>
+<div align="left" width="100px">
+  <h3 align="left">My Works:</h3>
+<div background="red">
+  
+>**<a href="https://novicovmykhailo.github.io/drink-master-front" target="_blank" rel="noreferrer"> 
+ Cocktails site
+ </a>**
+
+>**<a href="https://novicovmykhailo.github.io/marvelous-adventures" target="_blank" rel="noreferrer"> 
+ Marvel Comics Encyclopedia
+    </a>**
+
+>**<a href="https://novicovmykhailo.github.io/BookStore" target="_blank" rel="noreferrer" color="#218bff"> 
+ Book Store
+</a>**
+
+>**<a href="https://novicovmykhailo.github.io/icecream_team_project" target="_blank" rel="noreferrer">
+Ice Cream
+</a>**
+
+
+
+>**<a href="https://github.com/NovicovMykhailo/unlock-the-wonders-of-ukraine" target="_blank" rel="noreferrer">
+Unlock Wonders of Ukraine
+ </a>**
+
+>**<a href="https://novicovmykhailo.github.io/goit-markup-hw-08" target="_blank" rel="noreferrer">
+Web studio 
+</a>**
+
+>**<a href="https://novicovmykhailo.github.io/mountain-tours" target="_blank" rel="noreferrer">
+Mountain Tours
+</a>**
+
+>**<a href="https://novicovmykhailo.github.io/Adventure-Landing-demo" target="_blank" rel="noreferrer">
+Adventure Tours
+</a>**
+</div>
+
+
+</div>
 
 
 <br>
