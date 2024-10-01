@@ -127,45 +127,45 @@
   
 <td width="300px">
   
->**<a href="https://novicovmykhailo.github.io/drink-master-front" target="_blank" rel="noreferrer"> 
+>**<a href="https://novicovmykhailo.github.io/drink-master-front" target="blank" rel="noreferrer"> 
  Cocktails site
  </a>**
 
->**<a href="https://novicovmykhailo.github.io/marvelous-adventures" target="_blank" rel="noreferrer"> 
+>**<a href="https://novicovmykhailo.github.io/marvelous-adventures" target="blank" rel="noreferrer"> 
  Marvel Comics Encyclopedia
     </a>**
 
->**<a href="https://novicovmykhailo.github.io/BookStore" target="_blank" rel="noreferrer" color="#218bff"> 
+>**<a href="https://novicovmykhailo.github.io/BookStore" target="blank" rel="noreferrer" color="#218bff"> 
  Book Store
 </a>**
 
->**<a href="https://novicovmykhailo.github.io/icecream_team_project" target="_blank" rel="noreferrer">
+>**<a href="https://novicovmykhailo.github.io/icecream_team_project" target="blank" rel="noreferrer">
 Ice Cream
 </a>**
 </td>
 
 <td width="300px">
   
->**<a href="https://github.com/NovicovMykhailo/unlock-the-wonders-of-ukraine" target="_blank" rel="noreferrer">
+>**<a href="https://github.com/NovicovMykhailo/unlock-the-wonders-of-ukraine" target="blank" rel="noreferrer">
 Unlock Wonders of Ukraine
  </a>**
 
->**<a href="https://novicovmykhailo.github.io/goit-markup-hw-08" target="_blank" rel="noreferrer">
+>**<a href="https://novicovmykhailo.github.io/goit-markup-hw-08" target="blank" rel="noreferrer">
 Web studio 
 </a>**
 
->**<a href="https://novicovmykhailo.github.io/mountain-tours" target="_blank" rel="noreferrer">
+>**<a href="https://novicovmykhailo.github.io/mountain-tours" target="blank" rel="noreferrer">
 Mountain Tours
 </a>**
 
->**<a href="https://novicovmykhailo.github.io/Adventure-Landing-demo" target="_blank" rel="noreferrer">
+>**<a href="https://novicovmykhailo.github.io/Adventure-Landing-demo" target="blank" rel="noreferrer">
 Adventure Tours
 </a>**
 </td>
   
 <td width="300px">
   
->**<a href="https://novicovmykhailo.github.io/adverts-car-rental" target="_blank" rel="noreferrer">
+>**<a href="https://novicovmykhailo.github.io/adverts-car-rental" target="blank" rel="noreferrer">
 Car Rental
 </a>**
 <br>
