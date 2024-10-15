@@ -146,7 +146,7 @@ Ice Cream
 
 <td width="300px">
   
->**<a href="https://github.com/NovicovMykhailo/unlock-the-wonders-of-ukraine" target="_blank" rel="noreferrer">
+>**<a href="https://novicovmykhailo.github.io/unlock-the-wonders-of-ukraine/" target="_blank" rel="noreferrer">
 Unlock Wonders of Ukraine
  </a>**
 
